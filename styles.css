@@ -1,0 +1,38 @@
+#main{
+  background: #f7f7f7;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  text-align: center;
+  margin: 1.5rem auto;
+  padding: .5rem 1em;
+  line-height: 1.5em;
+}
+
+#title {
+}
+
+#img-div{
+
+}
+
+#img-caption{
+
+}
+
+#tribute-info{
+text-align: left;
+}
+#tribute-link{
+  color: #477ca7;
+}
+
+blockquote {
+
+}
+img{
+  border-radius: 30%
+}
+
+
+#footer_a{
+
+}
