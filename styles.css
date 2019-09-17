@@ -5,16 +5,29 @@
   margin: 1.5rem auto;
   padding: .5rem 1em;
   line-height: 1.5em;
+
+
 }
 
 #title {
-}
+  font-style: oblique;
+  }
 
 #img-div{
-
+height: auto;
+background: grey;
+margin: auto 7px;
+padding-top: 2rem;
+padding-bottom: 2rem;
+position: relative;
 }
-
+#image{
+  display: block;
+	margin: 0 auto;
+	max-width: 100%;
+}
 #img-caption{
+font-weight: bold;
 
 }
 
@@ -23,16 +36,21 @@ text-align: left;
 }
 #tribute-link{
   color: #477ca7;
+  text-decoration: underline;
 }
 
 blockquote {
-
+font-style: italic;
 }
 img{
-  border-radius: 30%
+  border-radius: 30%;
+  position: relative;
 }
 
 
 #footer_a{
+background-color: pink;
+width: 100%
+height: auto;
 
 }
